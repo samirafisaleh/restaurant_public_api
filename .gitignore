@@ -1,0 +1,7 @@
+.DS_Store
+env/
+logging/
+source/project/apps/restaurant/migrations/
+source/project/apps/store/migrations/
+source/project/db.sqlite3
+__pycache__/

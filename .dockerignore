@@ -1,0 +1,4 @@
+
+source/project/db.sqlite3
+source/project/apps/restaurant/migrations
+source/project/apps/store/migrations
